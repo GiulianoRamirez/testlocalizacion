@@ -1,0 +1,7 @@
+{
+  "name": "appLocalizacion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
